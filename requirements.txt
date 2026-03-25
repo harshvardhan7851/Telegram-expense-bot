@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+requests
+pandas
+matplotlib
+sqlalchemy
+psycopg2-binary
+gspread
+google-auth
+python-dotenv
